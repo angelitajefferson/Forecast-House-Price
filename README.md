@@ -1,5 +1,5 @@
-Forecast house price
-Angelita Jefferson — angelitajefferson@hotmail.com
+Forecast house price by
+Angelita Jefferson
 
 
 Note: 
