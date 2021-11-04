@@ -5,7 +5,6 @@ Angelita Jefferson
 Note: 
 * All technical analysis was done in Jupyter notebook (File name: “OpenMe.ipynb”)
 * The dataset is in CSV file (File name: “ashfield.csv”)
-* The video presentation is “WatchMe.mp4”
 * Please refer to the notebook or the presentation video for below analysis steps.
 
 Detail Steps of Technical Analysis for Forecasting House Price:
